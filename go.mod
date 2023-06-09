@@ -1,4 +1,6 @@
-module github.com/ipfs/go-log/v2
+module github.com/switfs/switfs-logs
+
+go 1.20
 
 require (
 	github.com/mattn/go-isatty v0.0.14
@@ -10,5 +12,3 @@ require (
 	go.uber.org/atomic v1.7.0 // indirect
 	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
 )
-
-go 1.20
